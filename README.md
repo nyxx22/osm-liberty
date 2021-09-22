@@ -28,6 +28,7 @@ Instalezi npm local:
 npm install
 ```
 
+
 Scapi de erori:
 ```bash
 npm audit fix --force
