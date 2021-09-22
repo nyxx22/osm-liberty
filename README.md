@@ -1,14 +1,14 @@
-# CUM SA FACI SPRITES
+# Cum sa faci SPRITE
 
 ## Operarea cu Maki Editor
 
 1. Accesezi [link-ul](https://labs.mapbox.com/maki-icons/editor/).
 
-2. Stergi setul de date din editor si incarci setul tau.
+2. Stergi setul de date din editor.
 
 3. Incarci file-urile .svg sau file-ul .json in editor.
 
-4. Descarci setul de icons.
+4. Descarci setul de icons din editor.
 
 
 ## Operarea cu spritezero
@@ -62,13 +62,8 @@ Creezi sprite:
 spritezero [output filename] [input directory]
 
   --retina      shorthand for --ratio=2
-  spritezero --retina [output filename] [input directory]
-  
   --ratio=[n]   pixel ratio
-  spritezero --ratio=[n] [output filename] [input directory]
-  
   --unique      map identical images to multiple names
-  spritezero --unique [output filename] [input directory]
 ```
 
 #### Link-uri utile
